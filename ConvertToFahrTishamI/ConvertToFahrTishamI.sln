@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToFahrTishamI", "ConvertToFahrTishamI\ConvertToFahrTishamI.csproj", "{31A88580-81C8-4316-8CD6-26BDA4C01402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A88580-81C8-4316-8CD6-26BDA4C01402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A88580-81C8-4316-8CD6-26BDA4C01402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A88580-81C8-4316-8CD6-26BDA4C01402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A88580-81C8-4316-8CD6-26BDA4C01402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B988ACED-F06A-488A-A56E-9A844FB8F399}
+	EndGlobalSection
+EndGlobal

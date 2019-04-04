@@ -1,0 +1,10 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 4 (Procedures & Functions)\ConvertToFahrTishamI\ConvertToFahrTishamI\bin\Debug\ConvertToFahrTishamI.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 4 (Procedures & Functions)\ConvertToFahrTishamI\ConvertToFahrTishamI\bin\Debug\ConvertToFahrTishamI.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 4 (Procedures & Functions)\ConvertToFahrTishamI\ConvertToFahrTishamI\bin\Debug\ConvertToFahrTishamI.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 4 (Procedures & Functions)\ConvertToFahrTishamI\ConvertToFahrTishamI\obj\Debug\ConvertToFahrTishamI.csprojAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 4 (Procedures & Functions)\ConvertToFahrTishamI\ConvertToFahrTishamI\obj\Debug\ConvertToFahrTishamI.frmConvertToFahr.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 4 (Procedures & Functions)\ConvertToFahrTishamI\ConvertToFahrTishamI\obj\Debug\ConvertToFahrTishamI.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 4 (Procedures & Functions)\ConvertToFahrTishamI\ConvertToFahrTishamI\obj\Debug\ConvertToFahrTishamI.csproj.GenerateResource.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 4 (Procedures & Functions)\ConvertToFahrTishamI\ConvertToFahrTishamI\obj\Debug\ConvertToFahrTishamI.csproj.CoreCompileInputs.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 4 (Procedures & Functions)\ConvertToFahrTishamI\ConvertToFahrTishamI\obj\Debug\ConvertToFahrTishamI.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 4 (Procedures & Functions)\ConvertToFahrTishamI\ConvertToFahrTishamI\obj\Debug\ConvertToFahrTishamI.pdb
