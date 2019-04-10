@@ -1,0 +1,10 @@
+C:\Users\s419015\source\repos\RoundingProgramTishamI\RoundingProgramTishamI\bin\Debug\RoundingProgramTishamI.exe.config
+C:\Users\s419015\source\repos\RoundingProgramTishamI\RoundingProgramTishamI\bin\Debug\RoundingProgramTishamI.exe
+C:\Users\s419015\source\repos\RoundingProgramTishamI\RoundingProgramTishamI\bin\Debug\RoundingProgramTishamI.pdb
+C:\Users\s419015\source\repos\RoundingProgramTishamI\RoundingProgramTishamI\obj\Debug\RoundingProgramTishamI.csprojAssemblyReference.cache
+C:\Users\s419015\source\repos\RoundingProgramTishamI\RoundingProgramTishamI\obj\Debug\RoundingProgramTishamI.frmRoundingProgram.resources
+C:\Users\s419015\source\repos\RoundingProgramTishamI\RoundingProgramTishamI\obj\Debug\RoundingProgramTishamI.Properties.Resources.resources
+C:\Users\s419015\source\repos\RoundingProgramTishamI\RoundingProgramTishamI\obj\Debug\RoundingProgramTishamI.csproj.GenerateResource.cache
+C:\Users\s419015\source\repos\RoundingProgramTishamI\RoundingProgramTishamI\obj\Debug\RoundingProgramTishamI.csproj.CoreCompileInputs.cache
+C:\Users\s419015\source\repos\RoundingProgramTishamI\RoundingProgramTishamI\obj\Debug\RoundingProgramTishamI.exe
+C:\Users\s419015\source\repos\RoundingProgramTishamI\RoundingProgramTishamI\obj\Debug\RoundingProgramTishamI.pdb
