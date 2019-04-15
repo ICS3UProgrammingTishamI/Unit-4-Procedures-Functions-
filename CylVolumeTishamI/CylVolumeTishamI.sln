@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CylVolumeTishamI", "CylVolumeTishamI\CylVolumeTishamI.csproj", "{2204B6EF-1953-4332-9C8C-03426D85239E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2204B6EF-1953-4332-9C8C-03426D85239E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2204B6EF-1953-4332-9C8C-03426D85239E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2204B6EF-1953-4332-9C8C-03426D85239E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2204B6EF-1953-4332-9C8C-03426D85239E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13D6DF3E-CE44-47CF-8DC8-C1D3B70E70AB}
+	EndGlobalSection
+EndGlobal
